@@ -35,8 +35,10 @@ body {
   content: '';
   background: url(../img/showcase.jpg) no-repeat center center/cover;
   position: absolute;
-  width: 100vh;
-  height: 100vh;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
   z-index: -1;
 }
 
